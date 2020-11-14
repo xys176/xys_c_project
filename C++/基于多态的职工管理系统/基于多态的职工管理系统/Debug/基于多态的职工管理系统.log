@@ -1,0 +1,4 @@
+﻿  workerManger.cpp
+E:\BaiduNetdiskDownload\代码\基于多态的职工管理系统\基于多态的职工管理系统\workerManger.cpp(377,9): warning C4102: “case1”: 未引用的标签
+E:\BaiduNetdiskDownload\代码\基于多态的职工管理系统\基于多态的职工管理系统\workerManger.cpp(380,9): warning C4102: “case2”: 未引用的标签
+  基于多态的职工管理系统.vcxproj -> E:\BaiduNetdiskDownload\代码\基于多态的职工管理系统\Debug\基于多态的职工管理系统.exe

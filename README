@@ -1,0 +1,4 @@
+git push -u xys1 master
+ git remote add xys1 git@github.com:xys176/C-ProjectTest.git
+ $ git commit -m "C++4"
+$ git add .

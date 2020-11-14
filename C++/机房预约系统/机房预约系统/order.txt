@@ -1,0 +1,3 @@
+date:1 interval:1 stuId:1 stuName:—¶“Ÿ ¢ room:1 statue:1
+date:3 interval:2 stuId:1 stuName:—¶“Ÿ ¢ room:3 statue:1
+date:5 interval:2 stuId:1 stuName:—¶“Ÿ ¢ room:2 statue:1
